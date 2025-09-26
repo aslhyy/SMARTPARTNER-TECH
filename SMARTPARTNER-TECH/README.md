@@ -159,6 +159,7 @@ Mantienen los equipos funcionando ante cortes de energía y permiten vigilar var
 
 Beneficio:
 Protegen la infraestructura crítica contra apagones, sobrecargas o daños físicos, reduciendo riesgos de pérdida de datos y aumentando la vida útil de los equipos.
+Daniela
 
 ### 4. Justificación técnica de las herramientas elegidas
 
