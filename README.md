@@ -12,6 +12,7 @@ El presente informe tiene como objetivo analizar la propuesta de servicios de Sm
 **-** Consultoría estratégica en Tecnologías de la Información y Comunicación (TIC).<br>
 **-** Gestión de infraestructura tecnológica y migración a la nube.<br>
 **-** Implementación de software empresarial (ERP, CRM y herramientas de productividad.)<br>
+
 El análisis se realiza desde una mirada tecnológica, proponiendo qué procesos pueden digitalizarse, qué herramientas de software y hardware serían necesarias, y justificando técnicamente la elección de las tecnologías más adecuadas para potenciar el proyecto.
 
 ## Descripción del Proyecto a Analizar
@@ -71,4 +72,5 @@ Dentro de la propuesta de SmartPartner Tech, se identifican varios procesos clav
 
 El análisis evidencia que la propuesta de SmartPartner Tech puede fortalecerse mediante la digitalización de procesos clave, la integración de plataformas de software empresarial, y el uso de tecnologías en la nube. Con ello, se garantiza un entorno de seguridad, escalabilidad y productividad que aporta valor tanto a PyMEs como a corporaciones.
 <br>
+
 La correcta elección de herramientas tecnológicas permitirá no solo responder a las necesidades actuales de las empresas, sino también anticiparse a futuros retos en ciberseguridad, infraestructura y gestión de la información.
