@@ -3,6 +3,7 @@
 
 **1.** Aslhy Casteblanco 
 **2.** Sarah Castro
+**3.** Mafe Rojas
 
 ## Introducción
 
@@ -162,7 +163,46 @@ Protegen la infraestructura crítica contra apagones, sobrecargas o daños físi
 Daniela
 
 ### 4. Justificación técnica de las herramientas elegidas
+La propuesta tecnológica de SmartPartner Tech combina de manera estratégica soluciones de software, servicios en la nube e infraestructura de hardware, asegurando una plataforma robusta, escalable y segura que responde a las necesidades de las PyMEs y corporaciones.
 
+1. Infraestructura de Hardware
+
+Servidores y sistemas de almacenamiento: proporcionan capacidad de cómputo y resguardo confiable de la información, garantizando disponibilidad y seguridad de los datos.
+
+Estaciones de trabajo y laptops: permiten la productividad del equipo técnico y administrativo, facilitando la operación diaria y el soporte ágil a los clientes.
+
+Dispositivos de red (routers, switches, firewalls, access points): aseguran conectividad estable, segmentación adecuada y protección frente a accesos no autorizados.
+
+UPS y sistemas de respaldo energético: mantienen la continuidad de los servicios ante fallas eléctricas.
+
+Equipos de monitoreo ambiental: protegen la infraestructura física al detectar condiciones críticas (temperatura, humedad, fallos en la energía).
+
+2. Plataforma Integral de Gestión Tecnológica (PIGT)
+
+Arquitectura modular en capas: facilita la escalabilidad y adaptación futura.
+
+Frontend (React, Next.js, Tailwind, React Native): garantiza una experiencia de usuario moderna, rápida y adaptable a web y móvil.
+
+Backend (Node.js con NestJS, APIs REST/GraphQL): ofrece un sistema estable, mantenible e integrable con otras soluciones empresariales (ERP, CRM, productividad).
+
+Bases de datos (PostgreSQL, Redis): optimizan el manejo de datos estructurados y las consultas en tiempo real.
+
+Seguridad (OAuth 2.0, OpenID Connect, JWT, TLS/SSL, respaldos automáticos): protegen la información sensible y fortalecen la confianza de los clientes.
+
+Gestión y despliegue (Docker, Kubernetes, CI/CD): aseguran actualizaciones continuas sin afectar la operación y permiten una administración eficiente en la nube.
+
+3. Alineación con los objetivos del proyecto
+La integración de hardware y software asegura:
+
+Continuidad operativa: gracias a la redundancia energética, la nube y los mantenimientos programados.
+
+Seguridad integral: con protección física (hardware), digital (ciberseguridad) y lógica (autenticación y respaldos).
+
+Eficiencia y productividad: al combinar herramientas de gestión, reportes ejecutivos y equipos de alto rendimiento.
+
+Escalabilidad y flexibilidad: tanto la infraestructura como la plataforma pueden crecer según la demanda del negocio.
+
+En conjunto, estas herramientas son las más adecuadas porque construyen una base tecnológica sólida y confiable, potenciando la misión de SmartPartner Tech de ofrecer productividad continua, protección total, inversión inteligente y eficiencia operativa a sus clientes.
 ## Conclusión
 
 El análisis evidencia que la propuesta de SmartPartner Tech puede fortalecerse mediante la digitalización de procesos clave, la integración de plataformas de software empresarial, y el uso de tecnologías en la nube. Con ello, se garantiza un entorno de seguridad, escalabilidad y productividad que aporta valor tanto a PyMEs como a corporaciones.
