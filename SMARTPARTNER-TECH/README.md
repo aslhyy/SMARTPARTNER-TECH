@@ -126,6 +126,40 @@ Gracias a su diseño modular, la plataforma podrá crecer y adaptarse a nuevas n
 
 ### 3. Hardware o IoT necesarios (dispositivos, integración y justificación)
 
+En el desarrollo del proyecto, el grupo requiere la implementación de diferentes tipos de hardware que respalden su propuesta tecnológica. Dentro de estos se incluyen servidores y sistemas de almacenamiento para la gestión segura de la información, equipos de cómputo como estaciones de trabajo y laptops que faciliten la productividad del personal, así como periféricos de apoyo. De igual manera, necesitan dispositivos de red (routers, switches, firewalls y access points) que garanticen la conectividad estable y segura, además de sistemas de respaldo energético (UPS) y equipos de monitoreo ambiental que protejan la infraestructura frente a fallas o contingencias. Con este conjunto de hardware, el proyecto asegura una base sólida que, en conjunto con el software y los servicios planteados, permite alcanzar los objetivos de continuidad, seguridad y eficiencia operativa.
+
+Servidores físicos y sistemas de almacenamiento
+
+Función en la empresa:
+Permiten alojar aplicaciones críticas (ERP, CRM, bases de datos, correo corporativo, etc.) y almacenar grandes volúmenes de información de forma centralizada.
+
+Beneficio:
+Garantizan acceso seguro, rápido y confiable a la información y servicios internos, evitando pérdida de datos y mejorando la continuidad del negocio.
+
+ Estaciones de trabajo, laptops y periféricos
+
+Función en la empresa:
+Son las herramientas que usan los colaboradores en sus actividades diarias (ofimática, diseño, programación, análisis de datos, atención al cliente).
+
+Beneficio:
+Incrementan la productividad al adaptarse a las necesidades específicas de cada área (ejemplo: un diseñador requiere una workstation potente, mientras que un área administrativa puede trabajar con laptops más ligeras).
+
+Equipos de red (routers, switches, firewalls y access points)
+
+Función en la empresa:
+Conectan a todos los dispositivos entre sí y con internet, organizan el tráfico de datos y protegen la red frente a ataques externos.
+
+Beneficio:
+Proveen conectividad estable, segmentación de la red, acceso seguro para usuarios y protección contra ciberamenazas.
+
+Sistemas de respaldo energético (UPS) y monitoreo ambiental
+
+Función en la empresa:
+Mantienen los equipos funcionando ante cortes de energía y permiten vigilar variables como temperatura o humedad en salas de servidores.
+
+Beneficio:
+Protegen la infraestructura crítica contra apagones, sobrecargas o daños físicos, reduciendo riesgos de pérdida de datos y aumentando la vida útil de los equipos.
+
 ### 4. Justificación técnica de las herramientas elegidas
 
 ## Conclusión
