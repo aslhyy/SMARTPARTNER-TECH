@@ -7,11 +7,11 @@
 
 El presente informe tiene como objetivo analizar la propuesta de servicios de SmartPartner Tech, una empresa enfocada en ofrecer asesoría tecnológica a PyMEs y corporaciones. Sus principales líneas de trabajo incluyen:<br>
 
-**-** Mantenimiento preventivo y correctivo de equipos y redes.<br>
-**-** Soluciones de ciberseguridad y respaldo de datos.<br>
-**-** Consultoría estratégica en Tecnologías de la Información y Comunicación (TIC).<br>
-**-** Gestión de infraestructura tecnológica y migración a la nube.<br>
-**-** Implementación de software empresarial (ERP, CRM y herramientas de productividad.)<br>
+**- ** Mantenimiento preventivo y correctivo de equipos y redes.<br>
+**- ** Soluciones de ciberseguridad y respaldo de datos.<br>
+**- ** Consultoría estratégica en Tecnologías de la Información y Comunicación (TIC).<br>
+**- ** Gestión de infraestructura tecnológica y migración a la nube.<br>
+**- ** Implementación de software empresarial (ERP, CRM y herramientas de productividad.)<br>
 
 El análisis se realiza desde una mirada tecnológica, proponiendo qué procesos pueden digitalizarse, qué herramientas de software y hardware serían necesarias, y justificando técnicamente la elección de las tecnologías más adecuadas para potenciar el proyecto.
 
